@@ -1,5 +1,3 @@
-Live demo https://git.heroku.com/microsoft-stream1199.git
-
 
 # Microsoft Stream - Video Streaming Web App
 
