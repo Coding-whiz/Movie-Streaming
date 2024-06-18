@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Microsoft Stream - Video Streaming Web App
 
@@ -82,3 +83,7 @@ A web streaming app with smart movie recommendation system.
   6. Server Runnin at `http://localhost:8000/`
   7. Recommendation engine running at `http://localhost:9000/`
 
+=======
+# Microsoft-Stream
+Movie recommendation system
+>>>>>>> 2b0d6536219058ffab88ee08708700a3e9b27a3c
